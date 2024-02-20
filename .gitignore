@@ -36,3 +36,6 @@ terraform.rc
 
 # VS Code
 .vscode
+
+# Key files
+*.pem
